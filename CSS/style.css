@@ -1,0 +1,23 @@
+.hd1{
+    font-size: 110px; 
+    font-family: 'Cinzel', serif;   
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+.hd2{
+    font-size: 50px; 
+    display: flex;
+    justify-content: center;
+  }
+
+.header{
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 0px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
